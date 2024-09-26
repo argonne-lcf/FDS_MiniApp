@@ -14,3 +14,6 @@ Further categorizations:
 - Multi-mesh/single task/shared memory. Like the above version, but with a list of meshes, and the "point-to-mesh" feature from FDS. Uses unified shared memory.
 
 All programs were compiled and tested on Sunspot, a testbed for the Aurora supercomputer (Argonne National Laboratory).
+
+## References
+[The Fire Dynamics Simulator](https://pages.nist.gov/fds-smv/) 
