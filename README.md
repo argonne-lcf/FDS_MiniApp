@@ -19,4 +19,4 @@ All programs were compiled and tested on Sunspot, a testbed for the Aurora super
 [The Fire Dynamics Simulator](https://pages.nist.gov/fds-smv/) 
 
 ## Contributors
-Aristotle Martin (@aris134)
+Aristotle Martin ([@aris134](https://github.com/aris134))
